@@ -14,5 +14,5 @@ MicroSD | Up to 256 GB
 Display | 1.024 x 768 (XGA), 9.7" (24,58 cm)
 Battery | 6000 mAh
 Weight | 450 g
-Rear Camera  | 5.0 MP | sr544
-Front Camera | 2.0 MP | sr200pc20
+Rear Camera  | 5.0 MP - sr544
+Front Camera | 2.0 MP - sr200pc20
